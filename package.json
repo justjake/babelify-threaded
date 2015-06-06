@@ -14,7 +14,9 @@
   },
   "dependencies": {
     "babel-core": "^5.0.0",
+    "bluebird": "2.9.27",
     "object-assign": "^2.0.0",
+    "threads_a_gogo": "0.1.7",
     "through2": "^0.6.3"
   },
   "devDependencies": {
