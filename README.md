@@ -1,3 +1,9 @@
+# Status: improbable.
+
+I thought threads ran a full Node environment, with `require()` and everything.
+Instead they have no internal code loading capabilities, or really any way to
+interact with the outside world.
+
 # babelify
 
 [Babel](https://github.com/babel/babel) [browserify](https://github.com/substack/node-browserify) transform
